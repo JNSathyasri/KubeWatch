@@ -34,10 +34,13 @@ def create_app():
     register_error_handlers(app)
     CORS(app)
     MongoDB.connect()
-    KubernetesClient.connect()
-    start_scheduler()
     app.logger.info("MongoDB Connected Successfully")
-    app.logger.info("Connected to Kubernetes Cluster")
+    try:
+        KubernetesClient.connect()
+        app.logger.info("Connected to Kubernetes Cluster")
+    except Exception as e:
+        app.logger.warning(f"Kubernetes not available: {e}")
+    start_scheduler()
     app.register_blueprint(api_bp, url_prefix="/api")
     app.register_blueprint(pod_bp, url_prefix="/api")
     app.register_blueprint(namespace_bp, url_prefix="/api")
