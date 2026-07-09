@@ -1,0 +1,51 @@
+version: "3.9"
+
+services:
+
+  mongodb:
+    image: mongo:8
+    container_name: kubewatch-mongodb
+    restart: always
+
+    ports:
+      - "27017:27017"
+
+    volumes:
+      - mongo-data:/data/db
+
+  backend:
+    build:
+      context: ./backend
+
+    container_name: kubewatch-backend
+
+    restart: always
+
+    depends_on:
+      - mongodb
+
+    ports:
+      - "5000:5000"
+
+    environment:
+      MONGO_URI: mongodb://mongodb:27017
+      DATABASE_NAME: kubewatch
+
+    volumes:
+      - C:/Users/Sathy/.kube:/root/.kube:ro
+      - C:/Users/Sathy/.minikube:/root/.minikube:ro
+
+  frontend:
+    build:
+      context: ./frontend
+
+    container_name: kubewatch-frontend
+
+    depends_on:
+      - backend
+
+    ports:
+      - "5173:80"
+
+volumes:
+  mongo-data:
