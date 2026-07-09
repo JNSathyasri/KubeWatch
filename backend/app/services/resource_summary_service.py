@@ -6,12 +6,21 @@ class ResourceSummaryService:
 
     @staticmethod
     def get_resources():
-
         try:
-            config.load_kube_config()
-        except ConfigException:
-            config.load_incluster_config()
-
+            try:
+                config.load_kube_config()
+            except ConfigException:
+                config.load_incluster_config()
+        except Exception:
+            return {
+                "total_nodes": 0,
+                "ready_nodes": 0,
+                "total_pods": 0,
+                "cpu_usage": 0,
+                "cpu_unit": "mCPU",
+                "memory_usage": 0,
+                "memory_unit": "MiB"
+            }
         core = client.CoreV1Api()
         custom = client.CustomObjectsApi()
 

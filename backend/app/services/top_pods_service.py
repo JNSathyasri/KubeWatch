@@ -6,12 +6,13 @@ class TopPodsService:
 
     @staticmethod
     def get_top():
-
         try:
-            config.load_kube_config()
-        except ConfigException:
-            config.load_incluster_config()
-
+            try:
+                config.load_kube_config()
+            except ConfigException:
+                config.load_incluster_config()
+        except Exception:
+            return []
         api = client.CustomObjectsApi()
 
         metrics = api.list_cluster_custom_object(

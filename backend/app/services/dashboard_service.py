@@ -6,12 +6,26 @@ class DashboardService:
 
     @staticmethod
     def get_summary():
-
         try:
-            config.load_kube_config()
-        except ConfigException:
-            config.load_incluster_config()
-
+            try:
+                config.load_kube_config()
+            except ConfigException:
+                config.load_incluster_config()
+        except Exception:
+            return {
+                "nodes": 0,
+                "namespaces": 0,
+                "pods": 0,
+                "running_pods": 0,
+                "pending_pods": 0,
+                "failed_pods": 0,
+                "deployments": 0,
+                "services": 0,
+                "daemonsets": 0,
+                "statefulsets": 0,
+                "jobs": 0,
+                "cronjobs": 0,
+            }
         core = client.CoreV1Api()
         apps = client.AppsV1Api()
         batch = client.BatchV1Api()
