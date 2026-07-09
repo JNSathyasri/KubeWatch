@@ -1056,3 +1056,258 @@
 2026-07-10 00:34:12,158 | INFO | Connected to Kubernetes Cluster
 2026-07-10 00:34:12,201 | WARNING |  * Debugger is active!
 2026-07-10 00:34:12,211 | INFO |  * Debugger PIN: 437-410-052
+2026-07-10 00:34:19,434 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:34:49 IST)" (scheduled at 2026-07-10 00:34:19.418615+05:30)
+2026-07-10 00:34:19,974 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:34:49 IST)" executed successfully
+2026-07-10 00:34:42,163 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:34:42 IST)" (scheduled at 2026-07-10 00:34:42.151406+05:30)
+2026-07-10 00:34:42,298 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:35:12 IST)" executed successfully
+2026-07-10 00:34:49,431 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:35:19 IST)" (scheduled at 2026-07-10 00:34:49.418615+05:30)
+2026-07-10 00:34:49,508 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:35:19 IST)" executed successfully
+2026-07-10 00:35:12,156 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:35:42 IST)" (scheduled at 2026-07-10 00:35:12.151406+05:30)
+2026-07-10 00:35:12,249 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:35:42 IST)" executed successfully
+2026-07-10 00:35:19,422 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:35:49 IST)" (scheduled at 2026-07-10 00:35:19.418615+05:30)
+2026-07-10 00:35:19,529 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:35:49 IST)" executed successfully
+2026-07-10 00:35:42,155 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:36:12 IST)" (scheduled at 2026-07-10 00:35:42.151406+05:30)
+2026-07-10 00:35:42,336 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:36:12 IST)" executed successfully
+2026-07-10 00:35:49,433 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:36:19 IST)" (scheduled at 2026-07-10 00:35:49.418615+05:30)
+2026-07-10 00:35:49,537 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:36:19 IST)" executed successfully
+2026-07-10 00:36:12,166 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:36:42 IST)" (scheduled at 2026-07-10 00:36:12.151406+05:30)
+2026-07-10 00:36:12,243 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:36:42 IST)" executed successfully
+2026-07-10 00:36:19,424 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:36:49 IST)" (scheduled at 2026-07-10 00:36:19.418615+05:30)
+2026-07-10 00:36:19,494 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:36:49 IST)" executed successfully
+2026-07-10 00:36:42,163 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:37:12 IST)" (scheduled at 2026-07-10 00:36:42.151406+05:30)
+2026-07-10 00:36:42,298 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:37:12 IST)" executed successfully
+2026-07-10 00:36:49,430 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:37:19 IST)" (scheduled at 2026-07-10 00:36:49.418615+05:30)
+2026-07-10 00:36:49,509 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:37:19 IST)" executed successfully
+2026-07-10 00:37:12,157 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:37:42 IST)" (scheduled at 2026-07-10 00:37:12.151406+05:30)
+2026-07-10 00:37:12,239 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:37:42 IST)" executed successfully
+2026-07-10 00:37:19,428 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:37:49 IST)" (scheduled at 2026-07-10 00:37:19.418615+05:30)
+2026-07-10 00:37:19,518 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:37:49 IST)" executed successfully
+2026-07-10 00:37:42,161 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:38:12 IST)" (scheduled at 2026-07-10 00:37:42.151406+05:30)
+2026-07-10 00:37:42,324 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:38:12 IST)" executed successfully
+2026-07-10 00:37:49,432 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:38:19 IST)" (scheduled at 2026-07-10 00:37:49.418615+05:30)
+2026-07-10 00:37:49,513 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:38:19 IST)" executed successfully
+2026-07-10 00:38:12,160 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:38:42 IST)" (scheduled at 2026-07-10 00:38:12.151406+05:30)
+2026-07-10 00:38:12,279 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:38:42 IST)" executed successfully
+2026-07-10 00:38:19,434 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:38:49 IST)" (scheduled at 2026-07-10 00:38:19.418615+05:30)
+2026-07-10 00:38:19,532 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:38:49 IST)" executed successfully
+2026-07-10 00:38:42,159 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:39:12 IST)" (scheduled at 2026-07-10 00:38:42.151406+05:30)
+2026-07-10 00:38:42,243 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:39:12 IST)" executed successfully
+2026-07-10 00:38:49,434 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:39:19 IST)" (scheduled at 2026-07-10 00:38:49.418615+05:30)
+2026-07-10 00:38:49,564 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:39:19 IST)" executed successfully
+2026-07-10 00:39:12,157 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:39:42 IST)" (scheduled at 2026-07-10 00:39:12.151406+05:30)
+2026-07-10 00:39:12,239 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:39:42 IST)" executed successfully
+2026-07-10 00:39:19,429 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:39:49 IST)" (scheduled at 2026-07-10 00:39:19.418615+05:30)
+2026-07-10 00:39:19,550 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:39:49 IST)" executed successfully
+2026-07-10 00:39:42,166 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:40:12 IST)" (scheduled at 2026-07-10 00:39:42.151406+05:30)
+2026-07-10 00:39:42,263 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:40:12 IST)" executed successfully
+2026-07-10 00:39:49,424 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:40:19 IST)" (scheduled at 2026-07-10 00:39:49.418615+05:30)
+2026-07-10 00:39:49,516 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:40:19 IST)" executed successfully
+2026-07-10 00:40:12,165 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:40:42 IST)" (scheduled at 2026-07-10 00:40:12.151406+05:30)
+2026-07-10 00:40:12,259 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:40:42 IST)" executed successfully
+2026-07-10 00:40:19,421 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:40:49 IST)" (scheduled at 2026-07-10 00:40:19.418615+05:30)
+2026-07-10 00:40:19,511 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:40:49 IST)" executed successfully
+2026-07-10 00:40:42,163 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:41:12 IST)" (scheduled at 2026-07-10 00:40:42.151406+05:30)
+2026-07-10 00:40:42,262 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:41:12 IST)" executed successfully
+2026-07-10 00:40:49,423 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:41:19 IST)" (scheduled at 2026-07-10 00:40:49.418615+05:30)
+2026-07-10 00:40:49,502 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:41:19 IST)" executed successfully
+2026-07-10 00:41:12,166 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:41:42 IST)" (scheduled at 2026-07-10 00:41:12.151406+05:30)
+2026-07-10 00:41:12,247 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:41:42 IST)" executed successfully
+2026-07-10 00:41:19,422 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:41:49 IST)" (scheduled at 2026-07-10 00:41:19.418615+05:30)
+2026-07-10 00:41:19,506 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:41:49 IST)" executed successfully
+2026-07-10 00:41:42,154 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:42:12 IST)" (scheduled at 2026-07-10 00:41:42.151406+05:30)
+2026-07-10 00:41:42,284 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:42:12 IST)" executed successfully
+2026-07-10 00:41:49,431 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:42:19 IST)" (scheduled at 2026-07-10 00:41:49.418615+05:30)
+2026-07-10 00:41:49,505 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:42:19 IST)" executed successfully
+2026-07-10 00:42:12,156 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:42:42 IST)" (scheduled at 2026-07-10 00:42:12.151406+05:30)
+2026-07-10 00:42:12,240 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:42:42 IST)" executed successfully
+2026-07-10 00:42:19,422 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:42:49 IST)" (scheduled at 2026-07-10 00:42:19.418615+05:30)
+2026-07-10 00:42:19,504 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:42:49 IST)" executed successfully
+2026-07-10 00:42:42,162 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:43:12 IST)" (scheduled at 2026-07-10 00:42:42.151406+05:30)
+2026-07-10 00:42:42,282 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:43:12 IST)" executed successfully
+2026-07-10 00:42:49,423 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:43:19 IST)" (scheduled at 2026-07-10 00:42:49.418615+05:30)
+2026-07-10 00:42:49,523 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:43:19 IST)" executed successfully
+2026-07-10 00:43:12,152 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:43:42 IST)" (scheduled at 2026-07-10 00:43:12.151406+05:30)
+2026-07-10 00:43:12,220 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:43:42 IST)" executed successfully
+2026-07-10 00:43:19,429 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:43:49 IST)" (scheduled at 2026-07-10 00:43:19.418615+05:30)
+2026-07-10 00:43:19,512 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:43:49 IST)" executed successfully
+2026-07-10 00:43:42,156 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:44:12 IST)" (scheduled at 2026-07-10 00:43:42.151406+05:30)
+2026-07-10 00:43:42,286 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:44:12 IST)" executed successfully
+2026-07-10 00:43:49,429 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:44:19 IST)" (scheduled at 2026-07-10 00:43:49.418615+05:30)
+2026-07-10 00:43:49,527 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:44:19 IST)" executed successfully
+2026-07-10 00:44:12,167 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:44:42 IST)" (scheduled at 2026-07-10 00:44:12.151406+05:30)
+2026-07-10 00:44:12,269 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:44:42 IST)" executed successfully
+2026-07-10 00:44:19,430 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:44:49 IST)" (scheduled at 2026-07-10 00:44:19.418615+05:30)
+2026-07-10 00:44:19,497 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:44:49 IST)" executed successfully
+2026-07-10 00:44:42,154 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:45:12 IST)" (scheduled at 2026-07-10 00:44:42.151406+05:30)
+2026-07-10 00:44:42,240 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:45:12 IST)" executed successfully
+2026-07-10 00:44:49,432 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:45:19 IST)" (scheduled at 2026-07-10 00:44:49.418615+05:30)
+2026-07-10 00:44:49,568 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:45:19 IST)" executed successfully
+2026-07-10 00:45:12,162 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:45:42 IST)" (scheduled at 2026-07-10 00:45:12.151406+05:30)
+2026-07-10 00:45:12,249 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:45:42 IST)" executed successfully
+2026-07-10 00:45:19,427 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:45:49 IST)" (scheduled at 2026-07-10 00:45:19.418615+05:30)
+2026-07-10 00:45:19,503 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:45:49 IST)" executed successfully
+2026-07-10 00:45:42,155 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:46:12 IST)" (scheduled at 2026-07-10 00:45:42.151406+05:30)
+2026-07-10 00:45:42,269 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:46:12 IST)" executed successfully
+2026-07-10 00:45:49,427 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:46:19 IST)" (scheduled at 2026-07-10 00:45:49.418615+05:30)
+2026-07-10 00:45:49,511 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:46:19 IST)" executed successfully
+2026-07-10 00:46:12,154 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:46:42 IST)" (scheduled at 2026-07-10 00:46:12.151406+05:30)
+2026-07-10 00:46:12,230 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:46:42 IST)" executed successfully
+2026-07-10 00:46:19,433 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:46:49 IST)" (scheduled at 2026-07-10 00:46:19.418615+05:30)
+2026-07-10 00:46:19,508 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:46:49 IST)" executed successfully
+2026-07-10 00:46:42,155 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:47:12 IST)" (scheduled at 2026-07-10 00:46:42.151406+05:30)
+2026-07-10 00:46:42,239 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:47:12 IST)" executed successfully
+2026-07-10 00:46:49,422 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:47:19 IST)" (scheduled at 2026-07-10 00:46:49.418615+05:30)
+2026-07-10 00:46:49,494 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:47:19 IST)" executed successfully
+2026-07-10 00:47:12,155 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:47:42 IST)" (scheduled at 2026-07-10 00:47:12.151406+05:30)
+2026-07-10 00:47:12,245 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:47:42 IST)" executed successfully
+2026-07-10 00:47:19,432 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:47:49 IST)" (scheduled at 2026-07-10 00:47:19.418615+05:30)
+2026-07-10 00:47:19,579 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:47:49 IST)" executed successfully
+2026-07-10 00:47:42,168 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:48:12 IST)" (scheduled at 2026-07-10 00:47:42.151406+05:30)
+2026-07-10 00:47:42,254 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:48:12 IST)" executed successfully
+2026-07-10 00:47:49,423 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:48:19 IST)" (scheduled at 2026-07-10 00:47:49.418615+05:30)
+2026-07-10 00:47:49,528 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:48:19 IST)" executed successfully
+2026-07-10 00:48:12,156 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:48:42 IST)" (scheduled at 2026-07-10 00:48:12.151406+05:30)
+2026-07-10 00:48:12,235 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:48:42 IST)" executed successfully
+2026-07-10 00:48:19,422 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:48:49 IST)" (scheduled at 2026-07-10 00:48:19.418615+05:30)
+2026-07-10 00:48:19,496 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:48:49 IST)" executed successfully
+2026-07-10 00:48:42,162 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:49:12 IST)" (scheduled at 2026-07-10 00:48:42.151406+05:30)
+2026-07-10 00:48:42,248 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:49:12 IST)" executed successfully
+2026-07-10 00:48:49,428 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:49:19 IST)" (scheduled at 2026-07-10 00:48:49.418615+05:30)
+2026-07-10 00:48:49,510 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:49:19 IST)" executed successfully
+2026-07-10 00:49:12,153 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:49:42 IST)" (scheduled at 2026-07-10 00:49:12.151406+05:30)
+2026-07-10 00:49:12,229 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:49:42 IST)" executed successfully
+2026-07-10 00:49:19,424 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:49:49 IST)" (scheduled at 2026-07-10 00:49:19.418615+05:30)
+2026-07-10 00:49:19,495 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:49:49 IST)" executed successfully
+2026-07-10 00:49:42,161 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:50:12 IST)" (scheduled at 2026-07-10 00:49:42.151406+05:30)
+2026-07-10 00:49:42,242 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:50:12 IST)" executed successfully
+2026-07-10 00:49:49,425 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:50:19 IST)" (scheduled at 2026-07-10 00:49:49.418615+05:30)
+2026-07-10 00:49:49,502 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:50:19 IST)" executed successfully
+2026-07-10 00:50:12,159 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:50:42 IST)" (scheduled at 2026-07-10 00:50:12.151406+05:30)
+2026-07-10 00:50:12,294 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:50:42 IST)" executed successfully
+2026-07-10 00:50:19,429 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:50:49 IST)" (scheduled at 2026-07-10 00:50:19.418615+05:30)
+2026-07-10 00:50:19,510 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:50:49 IST)" executed successfully
+2026-07-10 00:50:42,160 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:51:12 IST)" (scheduled at 2026-07-10 00:50:42.151406+05:30)
+2026-07-10 00:50:42,238 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:51:12 IST)" executed successfully
+2026-07-10 00:50:49,430 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:51:19 IST)" (scheduled at 2026-07-10 00:50:49.418615+05:30)
+2026-07-10 00:50:49,544 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:51:19 IST)" executed successfully
+2026-07-10 00:51:12,163 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:51:42 IST)" (scheduled at 2026-07-10 00:51:12.151406+05:30)
+2026-07-10 00:51:12,243 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:51:42 IST)" executed successfully
+2026-07-10 00:51:19,431 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:51:49 IST)" (scheduled at 2026-07-10 00:51:19.418615+05:30)
+2026-07-10 00:51:19,533 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:51:49 IST)" executed successfully
+2026-07-10 00:51:42,153 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:52:12 IST)" (scheduled at 2026-07-10 00:51:42.151406+05:30)
+2026-07-10 00:51:42,228 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:52:12 IST)" executed successfully
+2026-07-10 00:51:49,425 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:52:19 IST)" (scheduled at 2026-07-10 00:51:49.418615+05:30)
+2026-07-10 00:51:49,498 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:52:19 IST)" executed successfully
+2026-07-10 00:52:12,153 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:52:42 IST)" (scheduled at 2026-07-10 00:52:12.151406+05:30)
+2026-07-10 00:52:12,256 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:52:42 IST)" executed successfully
+2026-07-10 00:52:19,431 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:52:49 IST)" (scheduled at 2026-07-10 00:52:19.418615+05:30)
+2026-07-10 00:52:19,522 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:52:49 IST)" executed successfully
+2026-07-10 00:52:42,159 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:53:12 IST)" (scheduled at 2026-07-10 00:52:42.151406+05:30)
+2026-07-10 00:52:42,227 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:53:12 IST)" executed successfully
+2026-07-10 00:52:49,420 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:53:19 IST)" (scheduled at 2026-07-10 00:52:49.418615+05:30)
+2026-07-10 00:52:49,511 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:53:19 IST)" executed successfully
+2026-07-10 00:53:12,165 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:53:42 IST)" (scheduled at 2026-07-10 00:53:12.151406+05:30)
+2026-07-10 00:53:12,248 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:53:42 IST)" executed successfully
+2026-07-10 00:53:19,423 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:53:49 IST)" (scheduled at 2026-07-10 00:53:19.418615+05:30)
+2026-07-10 00:53:19,510 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:53:49 IST)" executed successfully
+2026-07-10 00:53:42,164 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:54:12 IST)" (scheduled at 2026-07-10 00:53:42.151406+05:30)
+2026-07-10 00:53:42,247 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:54:12 IST)" executed successfully
+2026-07-10 00:53:49,430 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:54:19 IST)" (scheduled at 2026-07-10 00:53:49.418615+05:30)
+2026-07-10 00:53:49,513 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:54:19 IST)" executed successfully
+2026-07-10 00:54:12,162 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:54:42 IST)" (scheduled at 2026-07-10 00:54:12.151406+05:30)
+2026-07-10 00:54:12,249 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:54:42 IST)" executed successfully
+2026-07-10 00:54:19,424 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:54:49 IST)" (scheduled at 2026-07-10 00:54:19.418615+05:30)
+2026-07-10 00:54:19,506 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:54:49 IST)" executed successfully
+2026-07-10 00:54:42,166 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:55:12 IST)" (scheduled at 2026-07-10 00:54:42.151406+05:30)
+2026-07-10 00:54:42,239 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:55:12 IST)" executed successfully
+2026-07-10 00:54:49,424 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:55:19 IST)" (scheduled at 2026-07-10 00:54:49.418615+05:30)
+2026-07-10 00:54:49,496 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:55:19 IST)" executed successfully
+2026-07-10 00:55:12,159 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:55:42 IST)" (scheduled at 2026-07-10 00:55:12.151406+05:30)
+2026-07-10 00:55:12,227 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:55:42 IST)" executed successfully
+2026-07-10 00:55:19,421 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:55:49 IST)" (scheduled at 2026-07-10 00:55:19.418615+05:30)
+2026-07-10 00:55:19,509 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:55:49 IST)" executed successfully
+2026-07-10 00:55:42,159 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:56:12 IST)" (scheduled at 2026-07-10 00:55:42.151406+05:30)
+2026-07-10 00:55:42,233 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:56:12 IST)" executed successfully
+2026-07-10 00:55:49,430 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:56:19 IST)" (scheduled at 2026-07-10 00:55:49.418615+05:30)
+2026-07-10 00:55:49,559 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:56:19 IST)" executed successfully
+2026-07-10 00:56:12,154 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:56:42 IST)" (scheduled at 2026-07-10 00:56:12.151406+05:30)
+2026-07-10 00:56:12,237 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:56:42 IST)" executed successfully
+2026-07-10 00:56:19,422 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:56:49 IST)" (scheduled at 2026-07-10 00:56:19.418615+05:30)
+2026-07-10 00:56:19,747 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:56:49 IST)" executed successfully
+2026-07-10 00:56:42,158 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:57:12 IST)" (scheduled at 2026-07-10 00:56:42.151406+05:30)
+2026-07-10 00:56:42,244 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:57:12 IST)" executed successfully
+2026-07-10 00:56:49,434 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:57:19 IST)" (scheduled at 2026-07-10 00:56:49.418615+05:30)
+2026-07-10 00:56:49,508 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:57:19 IST)" executed successfully
+2026-07-10 00:57:12,153 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:57:42 IST)" (scheduled at 2026-07-10 00:57:12.151406+05:30)
+2026-07-10 00:57:12,231 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:57:42 IST)" executed successfully
+2026-07-10 00:57:19,433 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:57:49 IST)" (scheduled at 2026-07-10 00:57:19.418615+05:30)
+2026-07-10 00:57:19,572 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:57:49 IST)" executed successfully
+2026-07-10 00:57:42,157 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:58:12 IST)" (scheduled at 2026-07-10 00:57:42.151406+05:30)
+2026-07-10 00:57:42,227 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:58:12 IST)" executed successfully
+2026-07-10 00:57:49,430 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:58:19 IST)" (scheduled at 2026-07-10 00:57:49.418615+05:30)
+2026-07-10 00:57:49,503 | INFO | 127.0.0.1 - - [10/Jul/2026 00:57:49] "GET /api/dashboard/top-pods HTTP/1.1" 200 -
+2026-07-10 00:57:49,522 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:58:19 IST)" executed successfully
+2026-07-10 00:57:49,625 | INFO | 127.0.0.1 - - [10/Jul/2026 00:57:49] "GET /api/dashboard/resources HTTP/1.1" 200 -
+2026-07-10 00:57:49,626 | INFO | 127.0.0.1 - - [10/Jul/2026 00:57:49] "GET /api/dashboard/top-pods HTTP/1.1" 200 -
+2026-07-10 00:57:49,710 | INFO | 127.0.0.1 - - [10/Jul/2026 00:57:49] "GET /api/dashboard HTTP/1.1" 200 -
+2026-07-10 00:57:49,771 | INFO | 127.0.0.1 - - [10/Jul/2026 00:57:49] "GET /api/dashboard/resources HTTP/1.1" 200 -
+2026-07-10 00:57:49,893 | INFO | 127.0.0.1 - - [10/Jul/2026 00:57:49] "GET /api/dashboard HTTP/1.1" 200 -
+2026-07-10 00:57:55,194 | INFO | 127.0.0.1 - - [10/Jul/2026 00:57:55] "GET /api/nodes HTTP/1.1" 200 -
+2026-07-10 00:57:55,210 | INFO | 127.0.0.1 - - [10/Jul/2026 00:57:55] "GET /api/nodes HTTP/1.1" 200 -
+2026-07-10 00:57:56,464 | INFO | 127.0.0.1 - - [10/Jul/2026 00:57:56] "GET /api/deployments HTTP/1.1" 200 -
+2026-07-10 00:57:56,504 | INFO | 127.0.0.1 - - [10/Jul/2026 00:57:56] "GET /api/deployments HTTP/1.1" 200 -
+2026-07-10 00:57:57,755 | INFO | 127.0.0.1 - - [10/Jul/2026 00:57:57] "GET /api/pods HTTP/1.1" 200 -
+2026-07-10 00:57:57,816 | INFO | 127.0.0.1 - - [10/Jul/2026 00:57:57] "GET /api/pods HTTP/1.1" 200 -
+2026-07-10 00:57:59,471 | INFO | 127.0.0.1 - - [10/Jul/2026 00:57:59] "GET /api/services HTTP/1.1" 200 -
+2026-07-10 00:57:59,513 | INFO | 127.0.0.1 - - [10/Jul/2026 00:57:59] "GET /api/services HTTP/1.1" 200 -
+2026-07-10 00:58:00,793 | INFO | 127.0.0.1 - - [10/Jul/2026 00:58:00] "GET /api/history HTTP/1.1" 200 -
+2026-07-10 00:58:00,802 | INFO | 127.0.0.1 - - [10/Jul/2026 00:58:00] "GET /api/history HTTP/1.1" 200 -
+2026-07-10 00:58:12,155 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:58:42 IST)" (scheduled at 2026-07-10 00:58:12.151406+05:30)
+2026-07-10 00:58:12,239 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:58:42 IST)" executed successfully
+2026-07-10 00:58:19,422 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:58:49 IST)" (scheduled at 2026-07-10 00:58:19.418615+05:30)
+2026-07-10 00:58:19,507 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:58:49 IST)" executed successfully
+2026-07-10 00:58:30,777 | INFO | 127.0.0.1 - - [10/Jul/2026 00:58:30] "GET /api/history HTTP/1.1" 200 -
+2026-07-10 00:58:42,154 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:59:12 IST)" (scheduled at 2026-07-10 00:58:42.151406+05:30)
+2026-07-10 00:58:42,292 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:59:12 IST)" executed successfully
+2026-07-10 00:58:49,426 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:59:19 IST)" (scheduled at 2026-07-10 00:58:49.418615+05:30)
+2026-07-10 00:58:49,539 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:59:19 IST)" executed successfully
+2026-07-10 00:59:00,921 | INFO | 127.0.0.1 - - [10/Jul/2026 00:59:00] "GET /api/history HTTP/1.1" 200 -
+2026-07-10 00:59:12,157 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:59:42 IST)" (scheduled at 2026-07-10 00:59:12.151406+05:30)
+2026-07-10 00:59:12,249 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:59:42 IST)" executed successfully
+2026-07-10 00:59:19,429 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:59:49 IST)" (scheduled at 2026-07-10 00:59:19.418615+05:30)
+2026-07-10 00:59:19,532 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 00:59:49 IST)" executed successfully
+2026-07-10 00:59:30,925 | INFO | 127.0.0.1 - - [10/Jul/2026 00:59:30] "GET /api/history HTTP/1.1" 200 -
+2026-07-10 00:59:42,165 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 01:00:12 IST)" (scheduled at 2026-07-10 00:59:42.151406+05:30)
+2026-07-10 00:59:42,246 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 01:00:12 IST)" executed successfully
+2026-07-10 00:59:49,431 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 01:00:19 IST)" (scheduled at 2026-07-10 00:59:49.418615+05:30)
+2026-07-10 00:59:49,505 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 01:00:19 IST)" executed successfully
+2026-07-10 01:00:00,916 | INFO | 127.0.0.1 - - [10/Jul/2026 01:00:00] "GET /api/history HTTP/1.1" 200 -
+2026-07-10 01:00:12,164 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 01:00:42 IST)" (scheduled at 2026-07-10 01:00:12.151406+05:30)
+2026-07-10 01:00:12,301 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 01:00:42 IST)" executed successfully
+2026-07-10 01:00:19,427 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 01:00:49 IST)" (scheduled at 2026-07-10 01:00:19.418615+05:30)
+2026-07-10 01:00:19,588 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 01:00:49 IST)" executed successfully
+2026-07-10 01:00:30,926 | INFO | 127.0.0.1 - - [10/Jul/2026 01:00:30] "GET /api/history HTTP/1.1" 200 -
+2026-07-10 01:00:42,161 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 01:01:12 IST)" (scheduled at 2026-07-10 01:00:42.151406+05:30)
+2026-07-10 01:00:42,290 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 01:01:12 IST)" executed successfully
+2026-07-10 01:00:49,429 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 01:01:19 IST)" (scheduled at 2026-07-10 01:00:49.418615+05:30)
+2026-07-10 01:00:49,508 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 01:01:19 IST)" executed successfully
+2026-07-10 01:04:01,500 | INFO | 127.0.0.1 - - [10/Jul/2026 01:04:01] "GET /api/history HTTP/1.1" 200 -
+2026-07-10 01:06:25,305 | INFO | 127.0.0.1 - - [10/Jul/2026 01:06:25] "GET /api/history HTTP/1.1" 200 -
+2026-07-10 01:06:26,076 | WARNING | Run time of job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 01:06:42 IST)" was missed by 0:00:13.925420
+2026-07-10 01:06:33,341 | WARNING | Run time of job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 01:06:49 IST)" was missed by 0:00:13.922587
+2026-07-10 01:06:42,162 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 01:07:12 IST)" (scheduled at 2026-07-10 01:06:42.151406+05:30)
+2026-07-10 01:06:42,258 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 01:07:12 IST)" executed successfully
+2026-07-10 01:06:49,420 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 01:07:19 IST)" (scheduled at 2026-07-10 01:06:49.418615+05:30)
+2026-07-10 01:06:49,528 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 01:07:19 IST)" executed successfully
+2026-07-10 01:07:12,167 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 01:07:42 IST)" (scheduled at 2026-07-10 01:07:12.151406+05:30)
+2026-07-10 01:07:12,252 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 01:07:42 IST)" executed successfully
+2026-07-10 01:07:19,432 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 01:07:49 IST)" (scheduled at 2026-07-10 01:07:19.418615+05:30)
+2026-07-10 01:07:19,514 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 01:07:49 IST)" executed successfully
+2026-07-10 01:07:42,163 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 01:08:12 IST)" (scheduled at 2026-07-10 01:07:42.151406+05:30)
+2026-07-10 01:07:42,242 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 01:08:12 IST)" executed successfully
+2026-07-10 01:07:49,420 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 01:08:19 IST)" (scheduled at 2026-07-10 01:07:49.418615+05:30)
+2026-07-10 01:07:49,544 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 01:08:19 IST)" executed successfully
+2026-07-10 01:08:12,158 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 01:08:42 IST)" (scheduled at 2026-07-10 01:08:12.151406+05:30)
+2026-07-10 01:08:12,267 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 01:08:42 IST)" executed successfully
+2026-07-10 01:08:19,433 | INFO | Running job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 01:08:49 IST)" (scheduled at 2026-07-10 01:08:19.418615+05:30)
+2026-07-10 01:08:19,556 | INFO | Job "MetricCollector.collect (trigger: interval[0:00:30], next run at: 2026-07-10 01:08:49 IST)" executed successfully
